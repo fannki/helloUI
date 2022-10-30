@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: Inter;
+    src: url('../fonts/Inter-VariableFont_slnt_wght.ttf');
+}
+
+@font-face {
+    font-family: CircularStd;
+    src: url('../fonts/circular-std-medium-500.ttf');
+}
